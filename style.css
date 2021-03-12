@@ -1,14 +1,61 @@
-body {
- text-align: center;
+h1 {
  font-family: Monaco;
  font-size: 50px;
+ color: #12263A;
 }
 
-img {
+.page {
+  text-align: center;
+  background-color: #CCDAED;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.link {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+a {
+  color: #D5B9B2;
+}
+
+.image {
+  height: 25%;
+  width: 25%;
+}
+
+.image:hover {
+  height: 25%;
+  width: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height: 70%;
-  width: 70%;
+  width: 100%;
+}
+
+#kou {
+  margin-bottom: 7%;
+}
+
+.gif1 {
+  height: 200px;
+  width: 400px;
+  padding-bottom: 40px;
+}
+
+.gif2 {
+  height: 200px;
+  width: 400px;
+}
+
+.um {
+  background-color: #D5B9B2;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: 300px;
+  margin-right:300px;
 }
